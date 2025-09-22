@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+title: "Three-dimensional modeling of flow through microvascular beds and surrounding interstitial spaces"
+authors:
+  - family-names: "Rajeeva Pandian"
+    given-names: "Navaneeth Krishna"
+repository-code: "https://github.com/<your-username>/<your-repo>"
+license: MIT
+keywords: [MATLAB, Java, microfluidics, vascular networks, FEM, organ-on-chip]
+preferred-citation:
+  type: article
+  title: "Three-dimensional modeling of flow through microvascular beds and surrounding interstitial spaces"
+  authors:
+    - family-names: "Rajeeva Pandian"
+      given-names: "Navaneeth Krishna"
+  year: 2025
